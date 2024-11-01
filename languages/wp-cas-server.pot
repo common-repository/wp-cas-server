@@ -1,0 +1,163 @@
+# Copyright (C) 2016 Luís Rodrigues
+# This file is distributed under the same license as the Cassava: A WordPress CAS Server package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cassava: A WordPress CAS Server 1.2.3\n"
+"Report-Msgid-Bugs-To: https://github.com/goblindegook/wp-cas-server\n"
+"POT-Creation-Date: 2016-02-13 00:03:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Luís Rodrigues <hello@goblindegook.net>\n"
+"Language-Team: Luís Rodrigues <hello@goblindegook.net>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: lib/Admin.php:50 lib/Admin.php:51 wp-cas-server.php:43
+msgid "Cassava CAS Server"
+msgstr ""
+
+#: lib/Admin.php:84
+msgid ""
+"Cassava CAS Server requires that this site be configured for HTTPS. For "
+"more information, contact your system administrator or hosting provider."
+msgstr ""
+
+#: lib/Admin.php:134
+msgid "User Attributes To Return"
+msgstr ""
+
+#: lib/Admin.php:143
+msgid "CAS server base"
+msgstr ""
+
+#: lib/Admin.php:199
+msgid "Cassava CAS Server Settings"
+msgstr ""
+
+#: lib/Admin.php:201
+msgid ""
+"Configuration panel for the Central Authentication Service provided by this "
+"site."
+msgstr ""
+
+#: lib/Admin.php:231
+msgid "First Name"
+msgstr ""
+
+#: lib/Admin.php:232
+msgid "Last Name"
+msgstr ""
+
+#: lib/Admin.php:233
+msgid "Public Name"
+msgstr ""
+
+#: lib/Admin.php:234
+msgid "Email"
+msgstr ""
+
+#: lib/Admin.php:235
+msgid "Website"
+msgstr ""
+
+#: lib/Admin.php:257
+msgid "User Attributes"
+msgstr ""
+
+#: lib/Admin.php:267
+msgid "(e.g. %s)"
+msgstr ""
+
+#: lib/Admin.php:272
+msgid ""
+"Checked attributes are disclosed on successful validation requests (CAS 2.0 "
+"only)."
+msgstr ""
+
+#: lib/CAS/Controller/ValidateController.php:105
+msgid "Ticket is required."
+msgstr ""
+
+#: lib/CAS/Controller/ValidateController.php:109
+msgid "Service is required."
+msgstr ""
+
+#: lib/CAS/Controller/ValidateController.php:120
+msgid "Ticket does not match the service provided."
+msgstr ""
+
+#: lib/CAS/Response/BaseResponse.php:87
+msgid "Unknown error"
+msgstr ""
+
+#: lib/CAS/Server.php:185
+msgid "The CAS server requires SSL."
+msgstr ""
+
+#: lib/CAS/Server.php:197
+msgid "The CAS server is disabled."
+msgstr ""
+
+#: lib/CAS/Server.php:212
+msgid "The controller for the route is invalid."
+msgstr ""
+
+#: lib/CAS/Server.php:243
+msgid "The server does not support the method requested."
+msgstr ""
+
+#: lib/CAS/Ticket.php:141
+msgid "Expired ticket."
+msgstr ""
+
+#: lib/CAS/Ticket.php:147
+msgid "No user matches ticket."
+msgstr ""
+
+#: lib/CAS/Ticket.php:153
+msgid "Corrupted ticket."
+msgstr ""
+
+#: lib/CAS/Ticket.php:157
+msgid "Unknown or used ticket."
+msgstr ""
+
+#: lib/CAS/Ticket.php:200
+msgid "Malformed ticket."
+msgstr ""
+
+#: lib/CAS/Ticket.php:254
+msgid "Ticket type cannot be validated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Cassava: A WordPress CAS Server"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://goblindegook.github.io/wp-cas-server"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides authentication services based on the Jasig CAS protocol."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Luís Rodrigues"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://goblindegook.com/"
+msgstr ""
